@@ -1,0 +1,28 @@
+
+body{
+	background-color: rgb(255, 200, 138);
+}
+#AgendaId{
+	width: 368px;
+	height: 195px;
+	
+	margin-top:50px;
+	margin-bottom: 12px;
+	background-color: #384a9a;
+	
+
+}
+
+.tablac{
+	color:#550251;
+	
+}
+
+.tituloc{
+	padding-left: 10px;
+	font-weight: 700;
+}
+
+.colorc{
+    color: rgb(6, 6, 39);
+}
